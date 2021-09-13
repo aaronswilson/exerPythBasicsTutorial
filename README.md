@@ -60,7 +60,7 @@
   * An easy short cut is to hit Shift-Enter after you've entered the code in a cell. This runs the cell and creates a new one below for the next code block.
   * There are a few code blocks which are for illustration purposes and will not execute. Go ahead and paste the code into a cell in your Jupyter Notebook to indicate you reviewed that section. (This is especially true in the Modules and Packages tutorial.)
   * The Modules and Packages tutorial provides an example or urlopen() which is from Python 2. How would that function be called in Python 3?
-  * In the Moduls and Packages tutorial, how should the example help(urllib.urlopen) be written?
+  * In the Modules and Packages tutorial, how should the example help(urllib.urlopen) be written?
   * The Writing Packages section of the Modules and Packages tutorial may be a bit out of date. What has changed?
   * When you're done make sure you save your file.
   * Quit when you get to Numpy Arrays. That is in the next tutorial.
